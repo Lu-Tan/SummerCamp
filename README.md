@@ -1,0 +1,2 @@
+# SummerCamp
+NOTES

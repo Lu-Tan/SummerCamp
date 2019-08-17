@@ -57,6 +57,7 @@
    - 《Matlab智能算法》
    - 《python机器学习经典实例》
    - 《机器学习与优化》
+   - https://space.bilibili.com/1900783?from=search&seid=7522513108300078387 面向新手、快速上手人工智能的有趣应用
 ### Theory
    - 西瓜书（即：南大周志华老师的《机器学习》
    - 花书（即：lan Goodfellow的《Deep Learning》
@@ -67,6 +68,9 @@
       - 没有各种基础想学习却无从下手哀声叹气的玩家，请按时跟踪最新博客，推导数学公式，跑通代码，并及时提出问题，以求最高疗效
       - 深度学习小白，有直观的人工智能的认识，强烈的学习欲望和需求，请在博客的基础上配合代码食用，效果更佳
       - 调参师，训练过模型，调过参数，想了解框架内各层运算过程，给玄学的调参之路添加一点心理保障
+## Hardware
+### Raspberrypi
+   - https://space.bilibili.com/1900783/channel/detail?cid=71673 树莓派零基础入门教程
 ## How to use Google
    - https://store.v2ray.cx/ 建议购买这个网站的服务，协议比较安全、也不贵。自己再找个客户端即可
    - IPV6 https://mp.weixin.qq.com/s/2S-x-wXdg3RO1h2FpozVAg

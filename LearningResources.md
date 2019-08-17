@@ -71,7 +71,7 @@
    - https://store.v2ray.cx/ 建议购买这个网站的服务，协议比较安全、也不贵。自己再找个客户端即可
    - IPV6 https://mp.weixin.qq.com/s/2S-x-wXdg3RO1h2FpozVAg
    - 遇到问题，先用搜索引擎（百度，Bing,Google），再找人提问。这样效率更高噢
-Contributer: 胡玄宇 郑晖 谭璐      
+###### _Contributer: 胡玄宇 郑晖 谭璐_      
       
 
 

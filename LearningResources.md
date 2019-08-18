@@ -81,7 +81,7 @@
 
 
 
-###### _Contributer: 胡玄宇 郑晖 谭璐_      
+###### _Contributor: 胡玄宇 郑晖 谭璐_      
       
 
 

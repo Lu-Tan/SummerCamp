@@ -1,11 +1,11 @@
 ###### 学习是个循序渐进的过程，一开始选择某一个方面去学习就可以了，不要求大求全
-* [按难度递增顺序](#1)
+### 按难度递增顺序
 * [A byte of Python](#1.1)
 * [Simple turtorial](#1.2)
 * [C/C++ refernce](#1.3)
 * [Raspberrypi](#1.4)
 * [Artificial Intelligence](#1.5)
-* [按兴趣方向](#2)
+### 按兴趣方向
 * [PM](#2.1)
 * [Design](#2.2)
 * [Android](#2.3)
@@ -13,7 +13,7 @@
 * [IOS](#2.5)
 * [LAB](#2.6)
 * [WEB](#2.7)
-* [杂七杂八](#3)
+### 杂七杂八
 ## <h2 id="1.1">A byte of Python</h2>
 ### About
    - Strong points
